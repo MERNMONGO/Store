@@ -32,7 +32,7 @@ function Home({user}) {
                 </div>
         </div>
 :   <div >
-<h1>Welcome Prospective User</h1>
+<h1>Welcome New User</h1>
 <div className ="signUp">
 <a href = "/foods"><h2>Sign Up to Start Creating</h2></a>
 </div>
