@@ -6,7 +6,7 @@ import { getAllFoods,deleteFood,deleteAllFood } from "../../services/foodService
 function Index(props) {
 
     const [foods, setFoods] = useState([])
-    const [food,setFood] = useState([])
+    
 
     useEffect(() => {
         async function getData() {
