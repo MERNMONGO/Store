@@ -17,7 +17,7 @@ function Home({user}) {
                 <h1>Welcome {user.toUpperCase()}</h1>
                 </div>
                 <div>
-                <h2>Click Plate to Start Creating</h2>
+                <h2>Click on Plate to Start Creating</h2>
                 </div>
                 
 
