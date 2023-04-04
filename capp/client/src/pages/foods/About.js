@@ -14,8 +14,8 @@ function About() {
     <div>
     
         <div className ="homepage">
-            <div style={myStyle}>
-                <h1>This app is used to help organize your shopping habits</h1>
+            <div >
+                <h1>This app is used to help organize your grocery shopping habits</h1>
         
         </div>
            
