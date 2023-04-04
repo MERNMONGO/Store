@@ -58,7 +58,7 @@ return (
             <input type="number" id="zz" ref={quantityRef} /><br /><br />
 
             <label htmlFor="zzw">Price</label><br />
-            <div className = "input-icon"><input type="number" id="zzw" ref={priceRef} /><i>$</i></div><br /><br />
+            <div className = "input-icon"><input type="number" id="zzw" ref={priceRef} /><i></i></div><br /><br />
            
             <label htmlFor="zszz">Calories</label><br />
             <input type="number" id="zszz" ref={caloriesRef} /><br /><br />
