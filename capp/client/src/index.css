@@ -1,0 +1,228 @@
+
+body{
+  background-color:yellow;
+}
+
+
+
+.input-icon {
+  position: relative;
+}
+
+.input-icon > i {
+  position: absolute;
+  display: block;
+  transform: translate(0, -50%);
+  top: 50%;
+  pointer-events: none;
+  width: 25px;
+  text-align: center;
+  font-style: normal;
+}
+
+
+
+
+.showView{
+  /* border: black dashed 1px; */
+  display: flex;
+  justify-content: center;
+  
+}
+
+.showList{
+  border: red solid 5px;
+  
+  
+}
+
+.showButtons{
+  
+  display:flex;
+  justify-content: space-evenly;
+
+}
+
+.centerText{
+  text-align: center;
+}
+
+
+.logBody{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #3d84cb;
+}
+
+.login {
+  width: 400px;
+  height: min-content;
+  padding: 20px;
+  border-radius: 15px;
+  background: #ffffff;
+}
+
+.login h1 {
+  font-size: 30px;
+  color:#0d6efd;
+  margin-bottom: 20px;
+}
+
+.login form {
+  font-size: 20px;
+  text-align: center;
+}
+
+.login form .form-group {
+  margin-bottom: 12px;
+}
+
+.login form input[type="submit"] {
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+
+
+
+.homepage{
+  text-align: center;
+
+}
+
+.homeImage img{
+  height:550px;
+}
+
+.homepage h1{
+  font-family: cursive;
+  font-weight: bolder;
+                    
+           
+}
+.homepage h2{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.tracker{
+  background-color: black;
+
+}
+.signUp a{
+  color: #0060B6;
+    text-decoration: none;
+
+}
+
+.signUp a:hover {
+  color:#00A0C6; 
+  text-decoration:none; 
+  cursor:pointer;  
+}
+
+.container-fluid{
+  background-color: #3d84cb;
+  border-radius: 500px;
+ width:fit-content;
+ 
+ 
+}
+
+.foodList{
+  background-color:#e6711f;
+  border-radius: 10px ;
+  width:280px;
+  text-align:center;
+  
+}
+
+.Fruits{
+  background-color:#d61d24;
+  border-radius: 10px ;
+  width:280px;
+  text-align:center;
+}
+
+.Grains{
+  background-color:
+  #e6731f;
+  border-radius: 10px ;
+  width:280px;
+  text-align:center;
+}
+
+.Vegetables{
+  background-color:#74b743;
+  border-radius: 10px ;
+  width:280px;
+  text-align:center;
+}
+
+
+.Proteins{
+  background-color: #5e4793;
+  border-radius: 10px ;
+  width:280px;
+  text-align:center;
+}
+
+.Dairy{
+  background-color:#3e83ca ;
+  border-radius: 10px ;
+  width:280px;
+  text-align:center;
+}
+
+.rowy{
+  display:flex;
+  justify-content: space-evenly;
+  margin-top:30px;
+  
+  
+}
+
+.buttBot{
+  display:flex;
+  margin-top:50px;
+  justify-content: space-evenly;
+  
+}
+
+.buttItems{
+  
+}
+
+/* .welcome{
+  background-color:#e6711f;
+  height:10vh;
+  text-align:center;
+
+} */
+
+
+.butAlign{
+  text-align: center;
+}
+
+.centerEdit{
+  text-align: center;
+  margin-top:50px;
+}
+.organic{
+  color:green;
+  font-size:20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+
+/* .loc{
+  color:black;
+  font-size:20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+/* 
+.fruitsButton{
+  background-color: #d61d24;
+} */
