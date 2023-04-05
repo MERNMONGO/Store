@@ -85,6 +85,9 @@ helps create color pallete that matches
 I wanted to replace the react loading screen with my own GIF. 
 
 
+## ***Motivation***
+- [Wire Frame](https://lucid.app/lucidspark/4c381191-ece2-4bcc-b628-430371d058d8/edit?viewport_loc=-7394%2C-3149%2C7843%2C4194%2C0_0&invitationId=inv_4eac247d-6831-408c-9c56-ed967eeb3b77) 
+- [ERD Diagram](https://lucid.app/lucidchart/62e43ced-a21a-4302-aafb-ffee3b308d05/edit?viewport_loc=-229%2C203%2C2373%2C1118%2ChlcMLo5CNE7S&invitationId=inv_5308e125-d34c-44c9-b5f7-ea91eae068ee) 
 
 
 
