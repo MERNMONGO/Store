@@ -82,7 +82,7 @@ This helps us organize our website more easily.
 ### https://coolors.co/ 
 helps create color pallete that matches
 
-### Problems 
+### Unsolved Problems and Future Enhancements
 
 
 
