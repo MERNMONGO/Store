@@ -2,7 +2,15 @@
 
 ## ***Introduction***
 This app is used to help better visualize your grocery list.  Usually one would use your notes app and it would just be a plain list. Here you can easily add and delete items to your list. You can delete with a click of a button instead of erasing manually. This app will help color code and organize your list by section. Items will be arranged by section and color coded. As a result you won't have to go back and forth between grocery aisles. You will be able to more efficiently scan your long list and look for items. 
+
+## ***Home page
+![Model](https://github.com/MERNMONGO/Store/blob/main/Landing.png)
+
+## ***List page
 ![Model](https://github.com/MERNMONGO/Store/blob/main/Nav.png)
+
+
+
 ## ***Getting Started ***
 - [Wire Frame](https://lucid.app/lucidspark/4c381191-ece2-4bcc-b628-430371d058d8/edit?viewport_loc=-7394%2C-3149%2C7843%2C4194%2C0_0&invitationId=inv_4eac247d-6831-408c-9c56-ed967eeb3b77) 
 - [ERD Diagram](https://lucid.app/lucidchart/62e43ced-a21a-4302-aafb-ffee3b308d05/edit?viewport_loc=-229%2C203%2C2373%2C1118%2ChlcMLo5CNE7S&invitationId=inv_5308e125-d34c-44c9-b5f7-ea91eae068ee) 
