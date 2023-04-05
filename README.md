@@ -58,10 +58,11 @@ Only logged in users can view their grocery item edit form.
 
 
  ### Technologies Used
+ **Trello**
+ **Lucid**
  **HTML** 
  **CSS** 
  **Javascript** 
- **HTML** 
  **Express** 
  **Axios** 
  **HTML** 
