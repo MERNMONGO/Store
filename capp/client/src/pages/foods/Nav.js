@@ -8,8 +8,8 @@ function Nav({ user, setUser }) {
   };
 
   return (
-    <div className="navb">
-    <nav className="navbar navbar-expand navbar-dark ">
+    // <div className="navb">
+    <nav className="navbar navbar-expand navbar-dark sticky-top">
     <div className="container-fluid">
        
 
@@ -52,7 +52,7 @@ function Nav({ user, setUser }) {
         </div>
    
     </nav>
-    </div>
+    // </div>
   );
 }
 

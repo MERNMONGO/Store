@@ -54,10 +54,10 @@ useEffect(() => {
                     <input type="text" id="zz" ref={foodRef} defaultValue={food.food} /><br /><br />
 
                     <label htmlFor="zzz">Quantity:</label><br />
-                    <textarea ref={quantityRef} id="zzz"  defaultValue={food.quantity} /><br /><br />
+                    <input type="number" ref={quantityRef} id="zzz"  defaultValue={food.quantity} /><br /><br />
 
                     <label for="az"> Food Category:</label>
-
+                        <br></br><br></br>
       
                         <select name="airport" id="az" ref={categoryRef}>
                         <option value="Grains">Grains</option>

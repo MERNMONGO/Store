@@ -4,10 +4,21 @@ body{
 }
 
 
+/* 
+.input-icon {
+  position: relative;
+}
 
-
-
-
+.input-icon > i {
+  position: absolute;
+  display: block;
+  transform: translate(0, -50%);
+  top: 50%;
+  pointer-events: none;
+  width: 25px;
+  text-align: center;
+  font-style: normal;
+} */
 
 
 
@@ -215,3 +226,7 @@ body{
 .fruitsButton{
   background-color: #d61d24;
 } */
+
+.spans{
+  color:black;
+}

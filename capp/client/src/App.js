@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Navigate } from 'react-router-dom';
 
 import { userInfo } from './services/userService';
 
@@ -23,7 +23,6 @@ function App() {
 
   const [user, setUser] = useState({})
 
-
   useEffect(() => {
       
       let token = localStorage.getItem("token")
@@ -31,13 +30,11 @@ function App() {
       if (token) {
           getLoggedInUser()
       } else {
-         
       }
 
       async function getLoggedInUser() {
           const user = await userInfo()
           setUser(user)
-         
       }
 
   }, [])

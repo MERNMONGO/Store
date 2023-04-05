@@ -6,7 +6,7 @@ import { getAllFoods,deleteFood,deleteAllFood } from "../../services/foodService
 function Index(props) {
 
     const [foods, setFoods] = useState([])
-    
+    // const [food,setFood] = useState([])
 
     useEffect(() => {
         async function getData() {
@@ -83,12 +83,12 @@ function Index(props) {
             </form>
             
     <Link to={`/foods/${food._id}/edit`} >
-       Edit Item
+       <span className = "spans">Edit Item</span>
     </Link>
     </div>
     <div>
     <Link to={`/foods/${food._id}`} >
-       Item Details
+       <span className ="spans">Item Details</span>
     </Link>
     </div>
     
