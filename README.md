@@ -9,6 +9,8 @@ This app is used to help better visualize your grocery list.  Usually one would 
 ## List page
 ![Model](https://github.com/MERNMONGO/Store/blob/main/Example.png)
 
+## Trello
+![Model](https://trello.com/invite/b/pnvdHciT/ATTI1402631f2654141dea6867dc57da3d965ACDA943/grocery-app-plan)
 
 
 ## Getting Started 
