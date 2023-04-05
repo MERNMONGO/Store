@@ -90,11 +90,19 @@ This helps us organize our website more easily.
 ### https://coolors.co/ 
 helps create color pallete that matches
 
-### Unsolved Problems and Future Enhancements
+## Unsolved Problems and Future Enhancements
+
+### Add animated loading screen for user
+
+### Create lists for specific stores
+
+### Create buttons to view each specific list category
+
+### Incorporate myplate image on each page
+
+### Change add to cart button to work with prevent default
 
 
-
-## Create buttons to view each specific list category
 
 
 ### Animted Loading Screen
