@@ -65,6 +65,7 @@ useEffect(() => {
                         <option value="Vegetables">Vegetables</option>
                         <option value="Proteins">Proteins</option>
                         <option value="Fruits"> Fruits</option>
+                        <option selected >{food.category}</option>
                         </select>
 
                         <br></br>                        <br></br>

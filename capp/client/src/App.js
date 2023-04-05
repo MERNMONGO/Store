@@ -54,9 +54,9 @@ function App() {
         <Route path='/login' element={<Login setUser ={setUser}/>} />
         <Route path='/register' element={<Register setUser ={setUser}/>} />
         <Route path='/foods' element={user.username?<FoodList user = {loggedIn} />:<Login setUser ={setUser}/>} />
-        <Route path='/foods/new' element={<NewFood user ={loggedIn} />} />
-        <Route path='/foods/:id' element={<ShowFood />} />
-        <Route path='/foods/:id/edit' element={<EditFood />} />
+        <Route path='/foods/new' element={user.username?<NewFood user ={loggedIn} />:<Login setUser ={setUser}/>} />
+        <Route path='/foods/:id' element={user.username?<ShowFood />:<Login setUser ={setUser}/>} />
+        <Route path='/foods/:id/edit' element={user.username?<EditFood />:<Login setUser ={setUser}/>} /> 
       </Routes>
       
     </div>
