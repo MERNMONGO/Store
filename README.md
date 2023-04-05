@@ -1,4 +1,10 @@
 # Grocery Shopping
+
+## ***Introduction***
+This app is used to help better visualize your grocery list.  Usually one would use your notes app and it would just be a plain list. Here you can easily add and delete items to your list. You can delete with a click of a button instead of erasing manually. This app will help color code and organize your list by section. Items will be arranged by section and color coded. As a result you won't have to go back and forth between grocery aisles. You will be able to more efficiently scan your long list and look for items. 
+
+
+
 ## ***Motivation***
 Motivation for this project was to help practice my MERN and CRUD knowledge. 
 Motivation was to create an app that'll organizeg your grocery list and color code it.
