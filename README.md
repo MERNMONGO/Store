@@ -6,7 +6,7 @@ This app is used to help better visualize your grocery list.  Usually one would 
 ## Home page
 ![Model](https://github.com/MERNMONGO/Store/blob/main/Landing.png)
 
-## ***List page
+## List page
 ![Model](https://github.com/MERNMONGO/Store/blob/main/Example.png)
 
 
