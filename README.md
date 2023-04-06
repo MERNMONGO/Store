@@ -107,15 +107,13 @@ helps create color pallete that matches
 
 ### Incorporate myplate image on each page
 
-### Change add to cart button to work with prevent default
+
 
 
 
 
 ### Animted Loading Screen
-I wanted to replace the react loading screen with my own GIF. 
-
-
+I wanted to used a loading screen because sometimes the login data takes long to get. 
 
 
 
