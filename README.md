@@ -95,6 +95,8 @@ This helps us organize our website more easily.
 ### https://coolors.co/ 
 helps create color pallete that matches
 
+### eyedropper
+
 ## Unsolved Problems and Future Enhancements
 
 ### Add animated loading screen for user
